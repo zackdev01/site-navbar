@@ -37,7 +37,7 @@
   }
   
   main {
-    background: #e9dfdf;
+    background: url("imagem/bg-gray.jpg") no-repeat center center;
     background-size: cover;
     height: 92vh;
   }
