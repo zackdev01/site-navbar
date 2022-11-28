@@ -37,7 +37,7 @@
   }
   
   main {
-    background: url("imagem/bg-jungle.jpg") no-repeat center center;
+    background: gray;
     background-size: cover;
     height: 92vh;
   }
