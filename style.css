@@ -1,4 +1,5 @@
-* {
+* 
+  {
     margin: 0;
     padding: 0;
   }
@@ -119,3 +120,33 @@
   .mobile-menu.active .line3 {
     transform: rotate(45deg) translate(-5px, -7px);
   }
+
+  div.quadrado {
+    background-color: #686767;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 200px;
+    height: 350px;
+    display: inline-block;
+    margin-top: 10px;
+  }
+
+  div.boximage {
+    background-color: #e0e0e0;
+    text-align: center;
+    letter-spacing: 40px;
+  }
+
+  div#q1 {
+    background-image: linear-gradient(to bottom, skyblue, navy);
+  }
+
+  div#q2 {
+    background-image: linear-gradient(to bottom, yellow,red);
+  }
+
+  div#q3 {
+    background-image: linear-gradient(to bottom, beige, brown)
+  }
+
+
